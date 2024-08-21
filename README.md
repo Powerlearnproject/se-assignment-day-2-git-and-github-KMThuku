@@ -21,7 +21,6 @@ The main differences between public and private GitHub repositories lie in their
 • Disadvantages: The community cannot be much involved in this, and this may be calling for the paid GitHub plans for teams. The fact that collaboration is strict to only the chosen people may lower external contributions or feedback in collaborative projects.
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 To make your first commit to a GitHub repository, follow these steps:
-
 1. Initialize Git: If not done already, navigate to your project directory and execute the following command to initialize a Git repository: `git init`.
 2. Add Files: Stage files using `git add [filename]`; or `git add .` for all of them.
 3. Commit changes: Use `git commit -m "Initial commit message"` for your first commit, including a message that describes the changes.
